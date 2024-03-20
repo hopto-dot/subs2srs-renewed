@@ -6,4 +6,6 @@ Currently, the only addition in this fork is a 'smart combine lines' feature tha
 
 I added this feature quickly and without proper consideration of structure the of the application written by the previous maintainer, the new code will exist as it is until I can try to sit down with it and tidy it up.
 
+The project has been upgraded to .NET v4.8.
+
 ![MainWindow](https://github.com/hopto-dot/subs2srs-renewed/blob/main/Main%20Window.png?raw=true)
